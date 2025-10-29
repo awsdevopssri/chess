@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 code no change
-=======
-# here we design a page for food app
->>>>>>> 0395d2a25be450924b5f4c472a12802783a7e469
+here we design a page for food app
+
